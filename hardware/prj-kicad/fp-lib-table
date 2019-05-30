@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name cowmod)(type KiCad)(uri "$(KIPRJMOD)/cowmod.pretty")(options "")(descr ""))
+  (lib (name pmod-wifi)(type KiCad)(uri /home/gwen/Agilack/Projects/pmod/rf-wifi/prj-kicad/pmod-wifi.pretty)(options "")(descr ""))
+)
