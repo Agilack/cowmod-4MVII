@@ -5,7 +5,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 3
+Sheet 1 4
 Title "Cowmod 4MVII"
 Date "2019-05-29"
 Rev "1"
@@ -358,5 +358,11 @@ S 6450 1650 2500 1400
 U 5CF627FC
 F0 "FPGA" 60
 F1 "cowmod-fpga.sch" 60
+$EndSheet
+$Sheet
+S 3600 1650 2500 1400
+U 5CF5FBFC
+F0 "MCU" 60
+F1 "cowmod-mcu.sch" 60
 $EndSheet
 $EndSCHEMATC
